@@ -1,10 +1,6 @@
-# `Movie-App`
+# `Doc-App`
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-
-## what it does
-It is the frontend react App
 
 
 
@@ -16,7 +12,7 @@ It is the frontend react App
 
 
 ## `Live Demo`
- [Live Demo](https://determined-elion-c594af.netlify.app)
+ [Live Demo](https://musing-murdock-4437ca.netlify.app)
 
 
 👤 **`Author`**
